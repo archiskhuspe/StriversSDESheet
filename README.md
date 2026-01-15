@@ -3,3 +3,5 @@
 Arrays
 
 Linked Lists
+
+Greedy Algorithm
