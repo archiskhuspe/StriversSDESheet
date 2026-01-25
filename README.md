@@ -1,9 +1,11 @@
 # Strivers SDE Sheet
 
-Arrays
+Arrays - I, II, III, IV
 
-Linked Lists
+Linked Lists - I, II, and Arrays
 
 Greedy Algorithm
 
-Recursion
+Recursion - I, and Backtracking
+
+Binary Search
