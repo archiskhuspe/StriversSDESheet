@@ -9,3 +9,5 @@ Greedy Algorithm
 Recursion - I, and Backtracking
 
 Binary Search
+
+Heaps
