@@ -16,4 +16,4 @@ Stack and Queue - I, II
 
 String - I, II
 
-Binary Tree - I, II
+Binary Tree - I, II, III
